@@ -1,0 +1,20 @@
+.card {
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.card-header {
+    background-color: #f8f9fa;
+}
+
+.is-invalid {
+    border-color: #dc3545;
+    background-color: #fff3f3;
+}
+
+.form-label {
+    font-weight: 500;
+}
+
+.card-body {
+    padding: 2rem;
+} 
